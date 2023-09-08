@@ -8,7 +8,7 @@ Overview of Python and Pandas code:
 - Campaign.csv contains information about each individual crowdfunding campaign, including the contact, category, and subcategory IDs. Contact.csv, category.csv, and subcategory.csv contain more detailed information about the campaign contacts and category types.
 
 Overview of SQL code:
--We started by created our entity relationship diagram to establish our game plan into a visual, executable action item.
--We created separate tables for the crowdfunding campaign, contacts, subcategories, and categories to cross-reference in query pulls.
--Finally, we imported the CSV files into the tables.
--We, of course, checked our work by selecting everything from the table to confirm it is presenting as expected (edited) 
+- We started by created our entity relationship diagram to establish our game plan into a visual, executable action item.
+- We created separate tables for the crowdfunding campaign, contacts, subcategories, and categories to cross-reference in query pulls.
+- Finally, we imported the CSV files into the tables.
+- We, of course, checked our work by selecting everything from the table to confirm it is presenting as expected (edited) 
